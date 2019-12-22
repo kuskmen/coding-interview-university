@@ -556,7 +556,6 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
         - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
     - [x] Implement a vector (mutable array with automatic resizing):
->>>>>>> c2737bbffb8c001c66745befa195c173e802b3df
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [x] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
@@ -612,7 +611,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [x] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
